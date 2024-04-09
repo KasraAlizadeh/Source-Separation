@@ -1,5 +1,5 @@
 # Source-Separation
-##Source Separation in Digital Signal Processing: The final project of  the Information Theory course (Politecnico di Milano)
+## Source Separation in Digital Signal Processing: The final project of  the Information Theory course (Politecnico di Milano)
 
 Welcome to the repository for our information theory project course focusing on source separation within digital signal processing (DSP). Source separation is a fundamental challenge in various fields such as audio processing, telecommunications, and biomedical signal analysis. This project delves into the intricate world of separating mixed signals into their constituent sources, leveraging principles from information theory.
 
